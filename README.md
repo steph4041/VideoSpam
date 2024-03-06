@@ -1,9 +1,41 @@
-To change the number of windows opened, change the y value.
+# Want to do this sort of stuff to your pc?
+![image](https://github.com/steph4041/VideoSpam/assets/82727066/fe701212-32fc-4ba4-9c23-5cecfdf0e912)
+Just follow these easy steps to get you started!
+
+## Installation
+
+You need these dependencies to run it!
+
+```bash
+  pip install opencv-python
+```
+
+```bash
+  pip install numpy
+```
+
+## How to run Locally
+
+Clone the project in your preferred directory
+
+```bash
+  git clone https://github.com/steph4041/VideoSpam.git
+```
+
+and just run it with python!
+
+```bash
+  python main.py
+```
+
+### Some quick instructions
+```bash
+To change the number of windows opened, change the y value. 
+
 To mess with the random positions area just modify the second value of randint to whatever you want (just make sure that it's not outside your screen resolution).
+
 To change the video name just replace video.mp4 to the file of your choosing.
+
 To close all the windows press q.
-Enjoy ;)
-
-
-psss- Dont forget to install dependencies! just run ![image](https://github.com/steph4041/VideoSpam/assets/82727066/65286d7e-0879-4c7d-be04-1aca24a9cdf6) and ![image](https://github.com/steph4041/VideoSpam/assets/82727066/fd066e3f-f310-4f8c-8b82-3e7a8dba8457) and you are set!
-
+```
+# Enjoy the chaos!
