@@ -5,8 +5,8 @@ Just follow these easy steps to get you started!
 
 ## Installation
 
-You need these dependencies to run it!
-
+You need two dependencies to install!
+Just run these in your cmd or terminal:
 ```bash
   pip install opencv-python
 ```
