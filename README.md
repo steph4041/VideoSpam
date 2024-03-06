@@ -1,5 +1,6 @@
 # Want to do this sort of stuff to your pc?
 ![image](https://github.com/steph4041/VideoSpam/assets/82727066/fe701212-32fc-4ba4-9c23-5cecfdf0e912)
+
 Just follow these easy steps to get you started!
 
 ## Installation
