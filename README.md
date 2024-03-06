@@ -31,7 +31,7 @@ and just run it with python!
 ```
 
 ### Some quick instructions
-```bash
+```text
 To change the number of windows the code will open, change the y value. 
 
 To mess with the random positions area, just modify the second value of randint to whatever you want.
