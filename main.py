@@ -25,8 +25,6 @@ while True:
 
     for i, f in enumerate(frames):
         if ret[i] is True:
-            
-            # gray[i] = cv2.cvtColor(f, cv2.COLOR_BGR2GRAY)
             cv2.imshow(window_titles[i], f)
             cv2.moveWindow(window_titles[i], positions[i][0], positions[i][1])
 
