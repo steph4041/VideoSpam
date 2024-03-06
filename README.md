@@ -38,6 +38,6 @@ To mess with the random positions area, just modify the second value of randint 
 
 To change the video name just replace "video.mp4" to the file of your choosing.
 
-To close all the windows press q (if it does not work, just ctrl+c in the terminal).
+To close all the windows press q (if it doesn't work, just ctrl+c in the terminal).
 ```
 # Enjoy the chaos!
