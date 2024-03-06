@@ -5,15 +5,16 @@ Just follow these easy steps to get you started!
 
 ## Installation
 
-You need two dependencies to install!
-Just run these in your cmd or terminal:
+You need two dependencies to use this awful code!
+
+Just run:
 ```bash
   pip install opencv-python
 ```
-
 ```bash
   pip install numpy
 ```
+in your cmd or terminal.
 
 ## How to run Locally
 
