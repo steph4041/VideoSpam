@@ -1,3 +1,5 @@
+# Audio has been added! (kinda)
+
 # Want to do this sort of stuff to your pc?
 ![image](https://github.com/steph4041/VideoSpam/assets/82727066/fe701212-32fc-4ba4-9c23-5cecfdf0e912)
 
@@ -5,7 +7,7 @@ Just follow these easy steps to get you started!
 
 ## Installation
 
-You need two dependencies to use this awful code!
+You need four dependencies to use this awful code!
 
 Just run:
 ```bash
@@ -14,6 +16,13 @@ Just run:
 ```bash
   pip install numpy
 ```
+```bash
+  pip install pydub
+```
+```bash
+  pip install moviepy
+```
+
 in your cmd or terminal.
 
 ## How to run Locally
@@ -32,14 +41,7 @@ and just run it with python!
 
 ### Some quick instructions
 ```text
-To change the number of windows the code will open, change the y value. 
-
-To mess with the random positions area, just modify the second value of randint to whatever you want.
-
-To change the video name just replace "video.mp4" to the file of your choosing.
-
-To close all the windows press q (if it doesn't work, just ctrl+c in the terminal).
+I moved the instructions inside the code!
 ```
 # Enjoy the chaos!
 
-I will try to add audio in the next update!
